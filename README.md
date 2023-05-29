@@ -1,5 +1,5 @@
 # KI in KMU
-FPV: Künstliche Intelligenz in kleinen und mittleren Betrieben
+FPV: Künstliche Intelligenz in kleinen und mittleren Betrieben (FS2023)
 
 ## Inhalt
 
@@ -14,23 +14,16 @@ Es werden neue Variabeln erstellt, welche für die weitere Verwendung nützlich 
 
 [4_Data Modelling](https://silvnst.github.io/else/4_Data%20Modelling.html)
 
-Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle die Lineare Regression, ein RandomForestRegressor und ein XGBoostRegressor verwendet. Im folgenden eine Ansicht der RMSE der Modelle nach Artikel.
-
-![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true)
+Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle die Lineare Regression, ein RandomForestRegressor und ein XGBoostRegressor verwendet. Im Folgenden eine Ansicht der RMSE der Modelle nach Artikel.
 
 <img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true" width="auto" height="400" alt="rmse 4" style="margin:auto;">
 
-![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_r2.png?raw=true)
-
-<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/4_r2.png?raw=true" width="auto" height="400" alt='rmse 4' style='margin:auto;'>
+<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/4_r2.png?raw=true" width="auto" height="400" alt="r2 4" style="margin:auto;">
 
 
 [5_Fine Tuning](https://silvnst.github.io/else/5_Fine%20Tuning.html)
-Die Modelle werden optimiert, um die besten Resultate zu erhalten. Die Hyperparameter von RandomForestRegressor und XGBoostRegressor werden optimiert. Zudem wird ein VortingRegressor erstellt, welches den Schnitt der Resultate der besten Modelle nimmt. Im folgenden eine Ansicht der RMSE der Modelle nach Artikel.
+Die Modelle werden optimiert, um die besten Resultate zu erhalten. Die Hyperparameter von RandomForestRegressor und XGBoostRegressor werden optimiert. Zudem wird ein VortingRegressor erstellt, welches den Schnitt der Resultate der besten Modelle nimmt, welche im Ordern `models` gespeichert wurden. Im Folgenden eine Ansicht der RMSE der Modelle nach Artikel.
 
-![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/5_rmse.png?raw=true)
+<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/5_rmse.png?raw=true" width="auto" height="400" alt="rmse 5" style="margin:auto;">
 
-![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/5_r2.png?raw=true)
-
-
-FS2023
+<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/5_r2.png?raw=true" width="auto" height="400" alt="r2 5" style="margin:auto;">
