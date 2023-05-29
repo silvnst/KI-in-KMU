@@ -14,7 +14,8 @@ Es werden neue Variabeln erstellt, welche für die weitere Verwendung nützlich 
 [4_Data Modelling](https://silvnst.github.io/else/4_Data%20Modelling.html)
 Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle für die Regression, Klassifikation und Clustering erstellt. Die Modelle werden im File `models.csv` gespeichert.
 
-image.png
+![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true)
+
 
 
 [5_Fine Tuning](https://silvnst.github.io/else/5_Fine%20Tuning.html)
