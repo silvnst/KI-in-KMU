@@ -17,9 +17,12 @@ Es werden neue Variabeln erstellt, welche für die weitere Verwendung nützlich 
 Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle die Lineare Regression, ein RandomForestRegressor und ein XGBoostRegressor verwendet. Im folgenden eine Ansicht der RMSE der Modelle nach Artikel.
 
 ![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true)
-<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true" width="auto" height="400" alt='rmse 4' style='margin:auto;'>
+
+<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true" width="auto" height="400" alt="rmse 4" style="margin:auto;">
 
 ![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_r2.png?raw=true)
+
+<img src="https://github.com/silvnst/KI-in-KMU/blob/main/img/4_r2.png?raw=true" width="auto" height="400" alt='rmse 4' style='margin:auto;'>
 
 
 [5_Fine Tuning](https://silvnst.github.io/else/5_Fine%20Tuning.html)
