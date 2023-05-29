@@ -2,14 +2,20 @@
 FPV: Künstliche Intelligenz in kleinen und mittleren Betrieben
 
 ## Inhalt
-
 [1_Data Understanding](https://silvnst.github.io/else/1_Data%20Understanding.html)
+In diesem File werden verschiedenste Grafiken erstellt, um die Daten zu verstehen. Es werden die Daten aus dem File `Datensatz_Lichtensteiger_(FS23).csv` verwendet. Zudem wird eine ABC-Analyse erstellt, welche im File `abc_analyses.csv` gespeichert wurde.
 
 [2_Data Preparation](https://silvnst.github.io/else/2_Data%20Preparation.html)
+Die Daten werden für die weitere Verwendung aufbereitet. Beispielsweise werden NaN-Werte ersetzt, Spalten umbenannt, neue Spalten erstellt, Variabeln logarithmisiert oder Extremwerte entfernt. Die aufbereiteten Daten werden im File `data_constructed.csv` gespeichert.
 
 [3_Add Variables](https://silvnst.github.io/else/3_Add%20Variables.html)
+Es werden neue Variabeln erstellt, welche für die weitere Verwendung nützlich sein könnten. Es werden Ferientage, Feiertage, Google Trends oder Covid-19 Daten hinzugefügt. Das neue Datenset wird im File `data_enriched.csv` gespeichert.
 
 [4_Data Modelling](https://silvnst.github.io/else/4_Data%20Modelling.html)
+Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle für die Regression, Klassifikation und Clustering erstellt. Die Modelle werden im File `models.csv` gespeichert.
+
+image.png
+
 
 [5_Fine Tuning](https://silvnst.github.io/else/5_Fine%20Tuning.html)
 
