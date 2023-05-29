@@ -2,7 +2,8 @@
 FPV: Künstliche Intelligenz in kleinen und mittleren Betrieben
 
 ## Inhalt
-[1_Data Understanding](https://silvnst.github.io/else/1_Data%20Understanding.html)
+
+### [1_Data Understanding](https://silvnst.github.io/else/1_Data%20Understanding.html)
 In diesem File werden verschiedenste Grafiken erstellt, um die Daten zu verstehen. Es werden die Daten aus dem File `Datensatz_Lichtensteiger_(FS23).csv` verwendet. Zudem wird eine ABC-Analyse erstellt, welche im File `abc_analyses.csv` gespeichert wurde.
 
 [2_Data Preparation](https://silvnst.github.io/else/2_Data%20Preparation.html)
@@ -11,7 +12,10 @@ Die Daten werden für die weitere Verwendung aufbereitet. Beispielsweise werden 
 [3_Add Variables](https://silvnst.github.io/else/3_Add%20Variables.html)
 Es werden neue Variabeln erstellt, welche für die weitere Verwendung nützlich sein könnten. Es werden Ferientage, Feiertage, Google Trends oder Covid-19 Daten hinzugefügt. Das neue Datenset wird im File `data_enriched.csv` gespeichert.
 
+[4_Data Modelling](https://github.com/silvnst/KI-in-KMU/blob/main/html/4_Data%20Modelling.html?raw=true)
+
 [4_Data Modelling](https://silvnst.github.io/else/4_Data%20Modelling.html)
+
 Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle die Lineare Regression, ein RandomForestRegressor und ein XGBoostRegressor verwendet. Im folgenden eine Ansicht der RMSE der Modelle nach Artikel.
 
 ![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true)
