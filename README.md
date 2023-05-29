@@ -12,12 +12,19 @@ Die Daten werden für die weitere Verwendung aufbereitet. Beispielsweise werden 
 Es werden neue Variabeln erstellt, welche für die weitere Verwendung nützlich sein könnten. Es werden Ferientage, Feiertage, Google Trends oder Covid-19 Daten hinzugefügt. Das neue Datenset wird im File `data_enriched.csv` gespeichert.
 
 [4_Data Modelling](https://silvnst.github.io/else/4_Data%20Modelling.html)
-Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle für die Regression, Klassifikation und Clustering erstellt. Die Modelle werden im File `models.csv` gespeichert.
+Es werden verschiedene Modelle erstellt, um die Daten zu analysieren. Es werden Modelle die Lineare Regression, ein RandomForestRegressor und ein XGBoostRegressor verwendet. Im folgenden eine Ansicht der RMSE der Modelle nach Artikel.
 
 ![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_rmse.png?raw=true)
 
+![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/4_r2.png?raw=true)
 
 
 [5_Fine Tuning](https://silvnst.github.io/else/5_Fine%20Tuning.html)
+Die Modelle werden optimiert, um die besten Resultate zu erhalten. Die Hyperparameter von RandomForestRegressor und XGBoostRegressor werden optimiert. Zudem wird ein VortingRegressor erstellt, welches den Schnitt der Resultate der besten Modelle nimmt. Im folgenden eine Ansicht der RMSE der Modelle nach Artikel.
+
+![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/5_rmse.png?raw=true)
+
+![RMSE der Modelle](https://github.com/silvnst/KI-in-KMU/blob/main/img/5_r2.png?raw=true)
+
 
 FS2023
